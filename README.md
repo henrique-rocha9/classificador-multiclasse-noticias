@@ -6,7 +6,7 @@
 
 ## 🔗 Aplicação Publicada
 
-👉 **[Acessar o app aqui]((https://classificador-multiclasse-noticias.streamlit.app/))**
+👉 **[Acessar o app aqui](https://classificador-multiclasse-noticias.streamlit.app/)**
 
 ---
 
