@@ -6,7 +6,7 @@
 
 ## 🔗 Aplicação Publicada
 
-👉 **[Acessar o app aqui](https://SEU-LINK-STREAMLIT.streamlit.app)** ← *substitua pelo link após o deploy*
+👉 **[Acessar o app aqui]((https://classificador-multiclasse-noticias.streamlit.app/))**
 
 ---
 
