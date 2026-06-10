@@ -14,8 +14,9 @@
 
 | Nome | RA |
 |------|----|
-| *(Nome completo)* | *(RA)* |
-| *(Nome completo)* | *(RA)* |
+| *Henrique Giaxa da Rocha* | *2030402* |
+| *Gabriel Tomazela Rodrigues* | *2028807* |
+| *Pedro Boschetti Servidoni* | *2039519* |
 
 ---
 
@@ -103,13 +104,12 @@ Todos dentro de um **Pipeline sklearn** (TF-IDF + classificador).
 
 ## 📊 Principais Resultados
 
-*(preencha após executar o notebook)*
 
 | Modelo | Acurácia | F1-Score Macro |
 |--------|----------|----------------|
-| MultinomialNB | — | — |
-| LogisticRegression | — | — |
-| LinearSVC | — | — |
+| MultinomialNB | 0.8520 | 0.8308 |
+| LogisticRegression | 0.8840 | 0.8712 |
+| LinearSVC | 0.8943  | 0.8802 |
 
 ---
 
